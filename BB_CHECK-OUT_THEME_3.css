@@ -11,18 +11,18 @@
 
 /*======BACKGROUND COLOR======*/
 html {
-    background-color: #f7f7f6!important;   /*===BACKGROUND COLOR===*/
+    background-color: white !important;   /*===BACKGROUND COLOR===*/
 }
 
 .modal.page {
-    background-color: #33a79c;  /*===BACKGROUND COLOR===*/
+    background-color: #f7f7f6;  /*===BACKGROUND COLOR===*/
 }
 /*=============================*/
 
 /*=======HEADER SETTINGS=======*/
 .top-header {
-    background-color: white;  /*===HEADER BACKGROUND COLOR===*/
-  border-radius:6px;  /*===ROUNDED CORNER SETTINGS===*/
+    background-color: #2b2626;  /*===HEADER BACKGROUND COLOR===*/
+  border-radius:0px;  /*===ROUNDED CORNER SETTINGS===*/
 }
 
 .top-header .timer-row__progress-bar {
