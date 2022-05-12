@@ -26,14 +26,14 @@ html {
 }
 
 .top-header .timer-row__progress-bar {
-  border-top: 1px solid #FFD41D;
-    border-bottom: 1px solid #FFD41D;
+  border-top: 1px solid #2b2626;
+    border-bottom: 1px solid #2b2626;
     background: #33a79c;    /*===PROGRESS BAR COLOR===*/
 }
 
 .top-header .timer-row {
-    border-top: 1px solid #FFD41D;  /*===COLORED LINE ABOVE PROGRESS BAR===*/
-  border-bottom: 1px solid #FFD41D; /*===COLORED LINE ABOVE PROGRESS BAR===*/
+    border-top: 1px solid #2b2626;  /*===COLORED LINE ABOVE PROGRESS BAR===*/
+  border-bottom: 1px solid #2b2626; /*===COLORED LINE ABOVE PROGRESS BAR===*/
     background: #33a79c;  /*===PROGRESS BAR BACKGROUND COLOR===*/
 }
 
