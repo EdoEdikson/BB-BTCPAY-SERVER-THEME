@@ -45,12 +45,12 @@ html {
     color: white !important;   /*===TEXT COLOR===*/
   padding-top: 15px;
     padding-bottom: 10px;
-    border-top: 1px solid #FFD41D !important;
-  border-bottom: 0px solid #FFD41D;
+    border-top: 1px solid #2b2626 !important;
+  border-bottom: 0px solid #2b2626;
 }
 
 .buyerTotalLine {
-    border-top: 1px solid #FFD41D;
+    border-top: 1px solid #2b2626;
     background-color: white;
     color: black;
   padding-top: 15px;
@@ -66,8 +66,8 @@ html {
 .payment-tabs {
     background-color: white;  /*===BACKGROUND COLOR===*/
   color: black;
-    border-top: 1px solid #FFD41D;  /*===COLORED LINE ABOVE PAYMENT TABS===*/
-  border-bottom: 1px solid #FFD41D; /*===COLORED LINE BELOW PAYMENT TABS===*/
+    border-top: 1px solid #2b2626;  /*===COLORED LINE ABOVE PAYMENT TABS===*/
+  border-bottom: 1px solid #2b2626; /*===COLORED LINE BELOW PAYMENT TABS===*/
 }
 /*===========================*/
 
@@ -82,7 +82,7 @@ html {
 
 .action-button:hover {
     background-image: linear-gradient(to top, #33a79c, #39c4b6);  /*===HOVER BUTTON BACKGROUND COLOR GRADIENT===*/
-  border-color:#FFD41D; /*===BUTTON BORDER COLOR===*/
+  border-color:#2b2626; /*===BUTTON BORDER COLOR===*/
 }
 /*============================*/
 
@@ -201,7 +201,7 @@ span {
 /*====COPY INFO BOX/TEXTS====*/
 .copyBox {
   background-color:white;
-  border-color:#FFD41D;
+  border-color:#2b2626;
 }
 
 .copyAmountText {
