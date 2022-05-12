@@ -1,111 +1,16 @@
-html {
-    background-color: #111316 !important;
-  }
-  
-  .modal.page {
-    background-color: #f7f7f6;
-  }
-  
-  .top-header {
-    background-color: #15181c;
-  }
-  
-  .top-header .timer-row__progress-bar {
-    background: #e11f26;
-  }
-  
-  .top-header .timer-row {
-    background: #e11f26;
-  }
-  
-  .payment-tabs__slider {
-    background: #e11f26;
-  }
-  
-  .action-button {
-    color: #fff !important;
-    background-image: #2b2626;
-  }
-  
-  .action-button:active {
-    background-image: #2b2626;
-  }
-  
-  .invoice {
-    background-color: #f7f7f6;
-  }
-  
-  .expired__body {
-    color: #fff;
-  }
-  
-  .currency-selection {
-    background-color: #15181c;
-    border-bottom: 1px solid #565d6e;
-    color: #fff;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    height: auto;
-  }
-  
-  .line-items {
-    background-color: #111316;
-    color: #565d6e !important;
-    border-top: 1px solid #565d6e !important;
-  }
-  
-  .buyerTotalLine {
-    border-top: 1px solid #202224;
-    background-color: #d6d7da;
-    color: #fff;
-  }
-  
-  .payment-tabs {
-    background-color: #f7f7f6;
-    color: #fff;
-    border-top: 1px solid #565d6e;
-    border-bottom: 1px solid #565d6e;
-  }
-  
-  .payment-tabs__tab .active {
-    color: #ff0000;
-  }
-  
-  .payment-tabs__tab.active {
-    color: #ff0000;
-  }
-  
-  a {
-    color: #00c3ff !important;
-  }
-  
-  canvas {
-    border: 5px solid #fff;
-  }
-  
-  #prettydropdown-DefaultLang ul {
-    color: #565d6e !important;
-    background-color: #e9e9e9 !important;
-  }
-  
-  .manual__step-one__header {
-      color: #ffffff;
-  }
-  .manual__step-one__instructions {
-      color: #ffffff;
-  }
-  
-  .payment__currencies:hover {
-      background: rgba(248, 248, 248,0.1);
-  }
-  
-  .recommended-fee{
-      margin-top: 10px;
-  }
-   
-.modal.page {
-    background-color: #efefef;
-}
-
+.modal.page {background-color: #efefef;}
+.top-header .header {height: 80px;}
+.header__icon__img {height:60px;}
+.top-header .timer-row {padding: 4px 14px; position: relative; transition: background 1s ease;}
+.top-header {max-height: 120px; transition: all .2s ease-out;}
+.top-header {background-color: #000;}
+.top-header .timer-row__progress-bar {background:#ce0000;}
+.top-header .timer-row {background: #a0a0a0;}
 .payment-tabs__slider {background: #aa0303;	}
 .separatorGem {background: #aa0303;}
+.action-button {color: #fff; background-color: #aa0303;border-color: #700000;}
+.action-button:hover {background-color: #ef8022;}
+.action-button:focus, .action-button.focus {color: #fff;background-color: #aa0303;
+    border-color: #aa0303;}
+.action-button:active, .action-button.active, .open>.action-button.dropdown-toggle {    color: #fff;    background-color: #3aa821;    border-color: #aa0303;}
+.action-button:active:hover, .action-button:active:focus, .action-button:active.focus, .action-button.active:hover, .action-button.active:focus, .action-button.active.focus, .open>.action-button.dropdown-toggle:hover, .open>.action-button.dropdown-toggle:focus, .open>.action-button.dropdown-toggle.focus {    color: #fff;    background-color: #3aa821;    border-color: #aa0303;}
