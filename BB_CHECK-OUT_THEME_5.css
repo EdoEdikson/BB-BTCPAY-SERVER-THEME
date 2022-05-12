@@ -21,7 +21,7 @@ html {
 
 /*=======HEADER SETTINGS=======*/
 .top-header {
-    background-color: #2b2626;  /*===HEADER BACKGROUND COLOR===*/
+    background-color: #e11f26;  /*===HEADER BACKGROUND COLOR===*/
   border-radius:0px;  /*===ROUNDED CORNER SETTINGS===*/
 }
 
@@ -74,7 +74,7 @@ html {
 /*===OPEN IN WALLET BUTTON===*/
 .action-button {
     color: #fff !important;
-    background-image: linear-gradient(to bottom, #33a79c, #39c4b6);   /*===BUTTON BACKGROUND COLOR GRADIENT===*/
+    background-image: #e11f26;   /*===BUTTON BACKGROUND COLOR GRADIENT===*/
   border-color:white;  /*===BUTTON BORDER COLOR===*/
   box-shadow: 0px 0px 15px -3px #000000;  /*===DROP SHADOW SETTINGS===*/
   border-radius: 6px;   /*===ROUNDED CORNER SETTINGS===*/
