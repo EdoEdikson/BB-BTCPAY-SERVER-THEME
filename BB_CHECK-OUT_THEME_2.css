@@ -24,11 +24,11 @@ html {
   
   .action-button {
     color: #fff !important;
-    background-image: linear-gradient(to right, #00c3ff, #1187c1);
+    background-image: #2b2626;
   }
   
   .action-button:active {
-    background-image: linear-gradient(to right, #00c3ff, #1187c1);
+    background-image: #2b2626;
   }
   
   .invoice {
