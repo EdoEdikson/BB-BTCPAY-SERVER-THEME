@@ -3,7 +3,7 @@ html {
   }
   
   .modal.page {
-    background-color: #111316;
+    background-color: #f7f7f6;
   }
   
   .top-header {
@@ -68,11 +68,11 @@ html {
   }
   
   .payment-tabs__tab .active {
-    color: #00c3ff;
+    color: #ff0000;
   }
   
   .payment-tabs__tab.active {
-    color: #00c3ff;
+    color: #ff0000;
   }
   
   a {
@@ -85,7 +85,7 @@ html {
   
   #prettydropdown-DefaultLang ul {
     color: #565d6e !important;
-    background-color: #111316 !important;
+    background-color: #e9e9e9 !important;
   }
   
   .manual__step-one__header {
