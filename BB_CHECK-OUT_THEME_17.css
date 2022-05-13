@@ -59,7 +59,9 @@ html {
     background-color: #15181c;
     color: #fff;
   }
-  
+  .payment-tabs__slider {
+    background: #ec912f;  }
+    
   .payment-tabs {
     background-color: #15181c;
     color: #fff;
