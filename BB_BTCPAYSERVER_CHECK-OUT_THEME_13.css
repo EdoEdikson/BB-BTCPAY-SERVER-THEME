@@ -1,0 +1,26 @@
+/*  ===========================INFO========================== */
+/*  Bull Bitcoin BTCPay Server - CSS Template                 */
+/*  Made by Bull Bitcoin - Block Height 736235                */
+/*  Contact edo@satoshiportal.com                             */   
+/*  ========================================================= */
+
+.top-header {background-color: #f7f7f6;}
+.top-header .timer-row__progress-bar {background:#e11f26;}
+.top-header .timer-row {background: #e11f26;}
+.close-icon {color:#000000;}
+.payment-tabs__tab.active{border-bottom: #b6151d 3px solid;}
+.separatorGem {background: #e11f26;}
+.action-button {color: #fff; background-color: #e21f1f;border-color: #b6151d;}
+.action-button:hover {background-color: #f52112;}
+.action-button:focus, .action-button.focus {color: rgb(27, 27, 27);background-color: #c51010; border-color: #c51019;}
+.action-button:active, .action-button.active, .open>.action-button.dropdown-toggle {    color: rgb(27, 27, 27);    background-color: #c51010;    border-color: #c51010;}
+.action-button:active:hover, .action-button:active:focus, .action-button:active.focus, 
+.action-button.active:hover, .action-button.active:focus, .action-button.active.focus, 
+.open>.action-button.dropdown-toggle:hover, .open>.action-button.dropdown-toggle:focus, 
+.open>.action-button.dropdown-toggle.focus {color: rgb(27, 27, 27);    background-color: #f7f7f6;}
+.btnGroupLnd button {border: solid 1px #8d9795;}
+.btnGroupLnd button.active {background-color: #2b2626;} /**/
+.btnGroupLnd button:hover {background-color:#f7f7f6;}
+.btnGroupLnd button.active:hover {background-color:#2b2626;}
+.manual__step-one__header {color: rgb(27, 25, 25); opacity: 1;}
+.content-fade0, .manual__step-one__instructions, .manual__step-two__instructions {color: rgb(27, 25, 25);opacity: 1;}
