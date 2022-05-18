@@ -4,8 +4,11 @@
 /*  Contact edo@satoshiportal.com                             */   
 /*  ========================================================= */
 
+/* Header color */
 .top-header {background-color: #f7f7f6;}
+/* Progress bar color 1 */
 .top-header .timer-row__progress-bar {background:#e11f26;}
+/* Progress bar color 2 */
 .top-header .timer-row {background: #e11f26;}
 .close-icon {color:#000000;}
 .payment-tabs__tab.active{
@@ -27,10 +30,10 @@
  /*====INSTRUCTIONAL TEXTS====*/
 .manual__step-one__header {
     color: #fff;  /*===TEXT COLOR===*/
-  opacity: 0;
+  opacity: 1;
 }
 .content-fade0, .manual__step-one__instructions, .manual__step-two__instructions {
     color: #fff;  /*===TEXT COLOR===*/
-  opacity: 0;
+  opacity: 1;
 }
 /*===========================*/
